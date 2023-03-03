@@ -1,4 +1,4 @@
-# spring-proyecto-practice
+# spring project list only
 ## resources > bd_mysql
 
 ## Screenshots
