@@ -1,10 +1,6 @@
 # spring project list only
 ## resources > bd_mysql
 
-<p>
-  Proyecto spring completo muy pronto...
-</p>
-
 ## Screenshots
 
 ![image](https://user-images.githubusercontent.com/85379478/222843575-238e4e95-71ce-4845-a4d7-a77c9ebbfcdb.png)
